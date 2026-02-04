@@ -3,4 +3,4 @@ Commit Number: 1
 Network: Base
 
 Commit Message:
-Define digital marketing strategy for Base App launch
+Define digital marketing strategy for Base App launch.
