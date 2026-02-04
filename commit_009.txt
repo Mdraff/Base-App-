@@ -4,4 +4,4 @@ Date: 2026-02-09
 Network: Base
 
 Commit Message:
-Develop tone of voice guidelines
+Develop tone of voice guidelines.
